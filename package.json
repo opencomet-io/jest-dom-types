@@ -2,6 +2,38 @@
   "name": "@types/testing-library__jest-dom",
   "version": "5.14.5",
   "license": "MIT",
+  "description": "TypeScript definitions for @testing-library/jest-dom",
+  "homepage": "https://github.com/opencomet-io/jest-dom-types",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opencomet-io/jest-dom-types"
+  },
+  "author": {
+    "name": "Igor Michalak",
+    "url": "https://github.com/igormichalak"
+  },
+  "contributors": [
+    {
+      "name": "Igor Michalak",
+      "url": "https://github.com/igormichalak"
+    },
+    {
+      "name": "Ernesto García",
+      "url": "https://github.com/gnapse"
+    },
+    {
+      "name": "John Gozde",
+      "url": "https://github.com/jgoz"
+    },
+    {
+      "name": "Seth Macpherson",
+      "url": "https://github.com/smacpherson64"
+    },
+    {
+      "name": "Andrew Leedham",
+      "url": "https://github.com/AndrewLeedham"
+    }
+  ],
   "main": "",
   "types": "index.d.ts",
   "packageManager": "yarn@3.4.1",
