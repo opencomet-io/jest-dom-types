@@ -12,6 +12,6 @@ import { TestingLibraryMatchers } from './matchers';
 declare global {
   namespace jest {
     interface Matchers<R = void, T = {}>
-      extends TestingLibraryMatchers<any, R> {}
+      extends TestingLibraryMatchers<(str: string) => any, R> {}
   }
 }
