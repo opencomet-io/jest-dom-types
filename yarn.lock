@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"jest-dom-types@workspace:.":
+"@types/testing-library__jest-dom@workspace:.":
   version: 0.0.0-use.local
-  resolution: "jest-dom-types@workspace:."
+  resolution: "@types/testing-library__jest-dom@workspace:."
   dependencies:
     prettier: ^2.8.4
   languageName: unknown

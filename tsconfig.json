@@ -9,8 +9,7 @@
     "target": "es6",
     "types": [],
     "noEmit": true,
-    "forceConsistentCasingInFileNames": true,
-    "baseUrl": "."
+    "forceConsistentCasingInFileNames": true
   },
   "files": ["index.d.ts"]
 }
