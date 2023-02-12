@@ -7,6 +7,8 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // Minimum TypeScript Version: 4.3
 
+// Edited by: Igor Michalak <https://github.com/igormichalak>
+
 import { TestingLibraryMatchers } from './matchers';
 
 declare global {
