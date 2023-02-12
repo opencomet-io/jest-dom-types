@@ -1,0 +1,12 @@
+{
+  "name": "jest-dom-types",
+  "version": "5.14.5",
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
