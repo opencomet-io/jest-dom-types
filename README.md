@@ -23,6 +23,12 @@ Your test setup file (e.g. `test/setup.ts`) should look like this:
 
 ```ts
 import '@testing-library/jest-dom';
+```
+
+Or if you have problems with jest-dom specific matchers, try this:
+
+```ts
+import '@testing-library/jest-dom';
 import matchers from '@testing-library/jest-dom/matchers';
 import { expect } from 'vitest';
 
