@@ -1,7 +1,9 @@
 {
-  "name": "jest-dom-types",
+  "name": "@types/testing-library__jest-dom",
   "version": "5.14.5",
   "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
   "packageManager": "yarn@3.4.1",
   "scripts": {
     "format": "prettier --write ."
