@@ -36,7 +36,6 @@
   ],
   "main": "",
   "types": "index.d.ts",
-  "packageManager": "yarn@3.4.1",
   "scripts": {
     "format": "prettier --write ."
   },
